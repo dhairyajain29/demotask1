@@ -1,4 +1,4 @@
-# demotask1 for company internshi[ selaction. (Image attatched below)
+# demotask1 for company internship selection. (Image attatched below)
 
 A new Flutter project.
 
